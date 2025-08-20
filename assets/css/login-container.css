@@ -1,0 +1,35 @@
+
+
+.login-section {
+display: flex;
+justify-content: center;
+align-items: center;
+ 
+}
+.login-section .login-container{
+ margin-top: 18rem;
+ max-width: 400px;
+ width: 100%;
+ padding: 0 2rem;
+
+
+
+ 
+}
+
+.login-section  p{
+
+
+
+
+ 
+}
+.login-section .login-container h1{
+ position: relative;
+ font-size: 3.2rem;
+ text-align: start;
+ padding-top: 0.5rem;
+
+
+ 
+}
