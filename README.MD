@@ -1,4 +1,4 @@
-# Pablos - Página de Login
+# Pablo - Página de Login
 
 Uma página de login moderna e responsiva desenvolvida em HTML e CSS puro, com design limpo e experiência de usuário otimizada.
 
